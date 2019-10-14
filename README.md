@@ -5,9 +5,12 @@ Les données sont disponible dans google drive sous format tabulaire:
 * Consultations en ligne:'https://docs.google.com/spreadsheets/d/1TvjqPwKQJZhqT8TxD1iCO_-MvqeQ2eq3mECFQhfh6_c/edit?usp=sharing'
 * consultations dans les régions: 'https://docs.google.com/spreadsheets/d/1x7FFFmqHeQwEmJx1iaP1zEX_Bh3AglVZZJG9pIwWusc/edit?usp=sharing'
 
+Le fichier [data_aggragation_model.csv](https://raw.githubusercontent.com/lingani/Cocreation-PAN2-Burkina-Faso/master/data_aggragation_model.csv) sert à harmoniser les expressions clées utilisées dans le texte.
+
 Les analyse effectuées sons dans le ipython notebook ci-joint.
 
 Le code est évidemment donc en python. Vous pouvez également telecharger les données et effectuer des analyses avec d'autres outils et nous faire découvrir.
 
 Merci,
+
 ML
